@@ -36,3 +36,10 @@ out/
 ### VS Code ###
 .vscode/
 /.ipynb_checkpoints/
+/Notes/.ipynb_checkpoints/
+/Examples/.ipynb_checkpoints/
+/Visualization/.ipynb_checkpoints/
+**/.ipynb_checkpoints/**
+/DeepLearning/.ipynb_checkpoints/
+/DeepLearning/.DS_Store
+**/.DS_Store/**
