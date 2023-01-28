@@ -42,4 +42,4 @@ out/
 **/.ipynb_checkpoints/**
 /DeepLearning/.ipynb_checkpoints/
 /DeepLearning/.DS_Store
-**/.DS_Store/**
+.DS_Store
