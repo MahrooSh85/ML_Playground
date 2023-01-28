@@ -37,7 +37,7 @@ out/
 .vscode/
 /.ipynb_checkpoints/
 /Notes/.ipynb_checkpoints/
-/Examples/.ipynb_checkpoints/
+/DecisionBoundary/.ipynb_checkpoints/
 /Visualization/.ipynb_checkpoints/
 **/.ipynb_checkpoints/**
 /DeepLearning/.ipynb_checkpoints/
